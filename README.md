@@ -1,4 +1,4 @@
-# Jellyfish-Search-Optimizer-
+# Jellyfish Search (JS) (JS Chou and DN Truong, 2021)
 A novel metaheuristic optimizer inspired by behavior of Jellyfish in ocean.
 
 # Algorithm: 
