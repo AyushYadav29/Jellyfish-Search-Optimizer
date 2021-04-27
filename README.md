@@ -8,4 +8,6 @@ The proposed optimization algorithm is based on three idealized rules:
 3. The quantity of food found is determined by the location and its corresponding objective function.
 
 # Results:
-<img src="output.png" alt="output" >
+<p>
+<img src="output.PNG" alt="output" >
+</p>
